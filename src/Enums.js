@@ -1,0 +1,41 @@
+var PLAYER_STATES {
+  NONE: 0,
+  STANDING: 1,
+  SITTING: 2,
+  LYING: 4,
+  STUNNED: 8,
+  BLIND: 16,
+  BURNING: 32,
+  LAMED: 64,
+  BEARTRAPPED: 128,
+  SLOWED: 256,
+  DEAD: 512,
+  POISONED: 1024,
+}
+
+var DIRS {
+  NONE: 0,
+  NORTH: 1,
+  SOUTH: 2,
+  EAST: 4,
+  WEST: 8,
+  LEFT: 16,
+  RIGHT: 32,
+}
+
+var COMMANDS {
+  NONE: 0,
+  FACE: 1,
+  LISTEN: 2,
+  LOOK: 3,
+  SIT: 4,
+  SNIFF: 5,
+  STAND: 6,
+  TURN: 7,
+  MOVE: 8,
+  JUMP: 9,
+  WAIT: 10,
+  WRITE: 11,
+  QUIT: 12,
+  SNEAK: 13,
+}

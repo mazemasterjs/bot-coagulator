@@ -1,0 +1,8 @@
+{
+    "runOneBot": false,
+    "botToRun": 1,
+    "openGameMonitor": false,
+    "specificMaze": null,
+    "playAllMazes": true,
+    "logLevel": "INFO"
+}

@@ -1,0 +1,14 @@
+{
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "javascript.suggestionActions.enabled": false,
+    "git.enableSmartCommit": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 160,
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.proseWrap": "never",
+    "prettier.eslintIntegration": true,
+    "prettier.ignorePath": ".prettierignore"
+}
